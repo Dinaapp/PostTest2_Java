@@ -3,6 +3,8 @@ NIM: 2409116111
 
 Program Top Up Game adalah program CRUD yang mengelola daftar game beserta item Top Up. Pengguna dapat melihat daftar Game, mencari, menambahkan game baru, mengubah, dan menghapus data. Program juga dibuat menggunakan MVC dengan pemisahan packages agar lebih terstruktur dan sesuai dengan fungsi.
 
+<img width="820" height="320" alt="image" src="https://github.com/user-attachments/assets/ae92dc26-5ef9-49cf-b722-7f6be87135ae" />
+
 Pada MVC, program terbagi menjadi 3 packages.
 1. Package model, menyimpan struktur data Game seperti atribut pada game dan constructor.
 2. Package service, menyimpan logika proses CRUD dan fitur search.

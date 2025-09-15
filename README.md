@@ -38,6 +38,31 @@ NIM: 2409116111
 <img width="1915" height="1118" alt="image" src="https://github.com/user-attachments/assets/796a4ab3-5520-4446-a8ef-ea7c023fa2e7" />
 
 
+RUN PROGRAM
+
+<img width="1919" height="1128" alt="image" src="https://github.com/user-attachments/assets/13aa4df2-8aee-44f9-9e01-54a415db956a" />
+
+<img width="1919" height="690" alt="image" src="https://github.com/user-attachments/assets/49612565-c12a-4657-9dce-ca87ce39e4c5" />
+
+<img width="1919" height="564" alt="image" src="https://github.com/user-attachments/assets/901f8da7-3d15-4300-8876-21f6d754c6ce" />
+
+<img width="1912" height="1018" alt="image" src="https://github.com/user-attachments/assets/b53b850c-daf9-4ccb-abf1-00ff2c5b955e" />
+
+<img width="1919" height="731" alt="image" src="https://github.com/user-attachments/assets/7f938459-3d2c-46d0-b2e1-1f019ae1b078" />
+
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/56f4ac39-5778-4f56-b6c5-968ff3259be7" />
+
+<img width="1919" height="692" alt="image" src="https://github.com/user-attachments/assets/d6566dc6-aa8a-40f4-bf65-8ef2c3537005" />
+
+<img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/04739132-72f0-44fc-8d24-a9ac7440fe79" />
+
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/253b2b03-f18e-48d8-8bf4-c1d17a18e39f" />
+
+<img width="1919" height="801" alt="image" src="https://github.com/user-attachments/assets/40494873-bd90-46c0-bf45-0e992a40382b" />
+
+
+
+
 
 
 
